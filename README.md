@@ -14,16 +14,6 @@ apt update && apt upgrade -y && apt install unzip && apt install python3-pip && 
 
 ```
 or ~
-
-* apt update
-* apt upgrade -y
-* apt install python3-pip
-* pip3 install flask
-* apt install unzip
-* cd Restaurant-Menu-Calculator
-* python3 fstart.py 
-
-
 * [apt update](#README.md)
 * [apt upgrade -y](#README.md)
 * [apt install python3-pip](#README.md)
