@@ -20,4 +20,8 @@ or ~
 * apt install python3-pip
 * pip3 install flask
 * apt install unzip
+* cd Restaurant-Menu-Calculator
+* python3 fstart.py 
 
+
+* [apt update](#README.md)
