@@ -3,7 +3,6 @@ Flask RestAPI
 
 Only run VPS
 
-<img src="t.jpg" align="right" />
 
 # README [![CyberTKR](kitty.png)](https://github.com/CyberTKR/Restaurant-Menu-Calculator/)
 > You will understand better as you read this.
