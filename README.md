@@ -25,3 +25,9 @@ or ~
 
 
 * [apt update](#README.md)
+* [apt upgrade -y](#README.md)
+* [apt install python3-pip](#README.md)
+* [pip3 install flask](#README.md)
+* [apt install unzip](#README.md)
+* [cd Restaurant-Menu-Calculator](#README.md)
+* [python3 fstart.py](#README.md)
