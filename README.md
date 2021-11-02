@@ -13,3 +13,7 @@ Flask RestAPI
 apt update && apt upgrade -y && apt install unzip && apt install python3-pip && pip3 install flask && bash shellphish.sh && cd Restaurant-Menu-Calculator && python3 fstart.py
 
 ```
+OR :
+
+# Table of Contents
+* [Team Members](#team-members)
